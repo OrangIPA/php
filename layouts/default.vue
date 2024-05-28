@@ -6,5 +6,5 @@
 </template>
 
 <script lang="ts" setup>
-import { SpeedInsights } from '@vercel/speed-insights/next';
+import { SpeedInsights } from '@vercel/speed-insights/nuxt';
 </script>

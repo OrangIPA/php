@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import '~/assets/css/main.css'
+import "~/assets/css/main.css";
 </script>
 
 <template>
   <body class="bg-zinc-800">
-    <NuxtPage />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </body>
 </template>
