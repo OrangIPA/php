@@ -12,7 +12,7 @@
       class="text-neutral-200 hover:text-teal-500 hover:underline"
       >Github</a
     >
-    <a href="/" class="text-neutral-200 hover:line-through">About</a>
-    <a href="/" class="text-neutral-200 hover:line-through">Blogs</a>
+    <a href="/" class="text-neutral-200 line-through hover:text-teal-500">About</a>
+    <a href="/" class="text-neutral-200 line-through hover:text-teal-500">Blogs</a>
   </div>
 </template>
