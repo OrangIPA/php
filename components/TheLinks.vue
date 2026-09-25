@@ -12,6 +12,12 @@
       class="text-neutral-200 hover:text-teal-500 hover:underline"
       >Github</a
     >
+    <a
+      rel="me"
+      href="https://mathstodon.xyz/@alanbahana"
+      class="text-neutral-200 hover:text-teal-500 hover:underline"
+      >Mastodon</a
+    >
     <a href="/" class="text-neutral-200 line-through hover:text-teal-500">About</a>
     <a href="/" class="text-neutral-200 line-through hover:text-teal-500">Blogs</a>
   </div>
